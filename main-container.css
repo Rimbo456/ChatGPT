@@ -10,7 +10,7 @@ html {
     color: #ffffffe1;
 }
 
-.our__container__of__getGPT {
+.our__container__of__chatGPT {
     width: 100%;
     display: flex;
     height: 100vh;
@@ -19,7 +19,7 @@ html {
     font-size: .65rem;
 }
 
-.getGPT__right__bodyCenter__part {
+.chatGPT__right__bodyCenter__part {
     height: 100vh;
     width: 100%;
     display: flex;
@@ -71,7 +71,7 @@ html {
 .right {
     right: 0;
 }
-.getGPT__right__bodyCenter__part .u__container {
+.chatGPT__right__bodyCenter__part .u__container {
     max-width: 48rem;
     height: 100%;
     display: flex;
@@ -80,25 +80,25 @@ html {
     justify-content: space-between;
 }
 
-.getGPT__right__bodyCenter__part .u__container h1 {
+.chatGPT__right__bodyCenter__part .u__container h1 {
     font-size: 2.25rem;
     line-height: 2.5rem;
     text-align: center;
     margin-top: 30px;
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header {
     padding-top: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.getGPT__body__center__container {
+.chatGPT__body__center__container {
     height: 100%;
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header .head__container {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header .head__container {
     width: 160px;
     display: flex;
     flex-direction: column;
@@ -106,15 +106,15 @@ html {
     justify-content: center;
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header .head__container span {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header .head__container span {
     display: block;
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header .head__container span:first-child {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header .head__container span:first-child {
     margin-bottom: .5rem;
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header .container__part {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header .container__part {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -123,7 +123,7 @@ html {
 
 }
 
-.getGPT__right__bodyCenter__part .getGPT__body__center__header .container__part p {
+.chatGPT__right__bodyCenter__part .chatGPT__body__center__header .container__part p {
     text-align: center;
     padding: 0.75rem;
     margin-top: .9rem;
@@ -187,7 +187,7 @@ html {
     justify-content: center;
 }
 
-.getGPT__body__center__footer {
+.chatGPT__body__center__footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -197,7 +197,7 @@ html {
     text-align: center;
 }
 
-.getGPT__search__input {
+.chatGPT__search__input {
     margin: .5rem;
     width: 95%;
     height: 50px;
@@ -208,7 +208,7 @@ html {
     border-radius: 11px;
     border: solid rgb(64, 65, 79) 1px;
 }
-.getGPT__search__input textarea {
+.chatGPT__search__input textarea {
     border: none;
     background: none;
     margin-left: .5rem;
@@ -233,27 +233,27 @@ html {
     position: relative;
 }
 
-.getGPT__search__input textarea::-webkit-scrollbar {
+.chatGPT__search__input textarea::-webkit-scrollbar {
     width: 3px;
     border-radius: 15px;
 }
 
-.getGPT__search__input textarea::-webkit-scrollbar-track {
+.chatGPT__search__input textarea::-webkit-scrollbar-track {
     background-color: #21272e;
     border-radius: 15px;
 }
 
-.getGPT__search__input textarea::-webkit-scrollbar-thumb {
+.chatGPT__search__input textarea::-webkit-scrollbar-thumb {
     background-color: #eff2f7;
     border-radius: 15px;
     max-height: 30px;
 }
 
-.getGPT__search__input textarea::-webkit-scrollbar-thumb:hover {
+.chatGPT__search__input textarea::-webkit-scrollbar-thumb:hover {
     background-color: #292929;
 }
 
-.getGPT__search__input span {
+.chatGPT__search__input span {
     display: flex;
     padding: 10px;
     cursor: pointer;
@@ -263,13 +263,13 @@ html {
     justify-content: center;
 }
 
-.getGPT__body__center__footer p {
+.chatGPT__body__center__footer p {
     margin-bottom: .5rem;
     font-size: .55rem;
     padding: 0 .7rem 0 .7rem;
 }
 
-.getGPT__body__center__footer p a {
+.chatGPT__body__center__footer p a {
     color: #ffffffe1;
 
 }
