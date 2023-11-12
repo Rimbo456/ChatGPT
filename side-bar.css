@@ -9,12 +9,12 @@ html {
     font-size: 16px;
     color: #ffffffe1;
 }
-.getGPT__left__nav__part,
-.getGPT__right__bodyCenter__part {
+.chatGPT__left__nav__part,
+.chatGPT__right__bodyCenter__part {
     height: 100%;
 }
 
-.getGPT__left__nav__part {
+.chatGPT__left__nav__part {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -28,14 +28,14 @@ html {
     justify-content: space-between;
     height: 11%;
 }
-.getGPT__create__chat {
+.chatGPT__create__chat {
     list-style: none;
     width: 77%;
     padding-top: 3px;
 
 }
 
-.getGPT__create__chat li {
+.chatGPT__create__chat li {
     width: 100%;
     border: solid rgba(255, 255, 255, 0.286) 0.1px;
     background-color: #1c1e2100;
@@ -50,7 +50,7 @@ html {
     align-items: center;
 }
 
-.getGPT__create__chat li i {
+.chatGPT__create__chat li i {
     padding: 0 1rem 0 1rem;
 }
 .close-open_side_bar {
@@ -73,7 +73,7 @@ html {
     justify-content: center;
     align-items: center;
 }
-.getGPT__added__container_for_newChat {
+.chatGPT__added__container_for_newChat {
     height: 100%;
     width: 100%;
     border-bottom: solid rgba(255, 255, 255, 0.286) 0.1px;
@@ -81,7 +81,7 @@ html {
     padding-top: .3rem;
     font-size: .65rem;
 }
-.getGPT__footer__left__option__part ul {
+.chatGPT__footer__left__option__part ul {
     list-style: none;
     width: 100%;
     display: flex;
@@ -90,7 +90,7 @@ html {
     margin-bottom: .4rem;
 }
 
-.getGPT__footer__left__option__part ul li {
+.chatGPT__footer__left__option__part ul li {
     width: 100%;
     font-size: .85rem;
     padding: 8px;
@@ -101,6 +101,6 @@ html {
     transition: background-color 400ms;
 }
 
-.getGPT__footer__left__option__part ul li span {
+.chatGPT__footer__left__option__part ul li span {
     padding-right: .5rem;
 }
