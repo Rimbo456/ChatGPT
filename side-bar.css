@@ -11,7 +11,7 @@ html {
 }
 .chatGPT__left__nav__part,
 .chatGPT__right__bodyCenter__part {
-    height: 100%;
+    height: 630px;
 }
 
 .chatGPT__left__nav__part {
